@@ -10,7 +10,7 @@ https://adressverzeichnis.ekd.de/einfachesuche/
 
 
 
-First, I tried to do this project in R. after a technical issue regarding this site. a college advised me to used Python.
+First, I tried to do this project in R. after a technical issue within this site. a colleague advised me to used Python.
 
 
 
